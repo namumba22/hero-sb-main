@@ -9,7 +9,7 @@ Eureka sample.
 
 Service | Type | test url
 --- |---|---
-eireka itself | ... | https://hero-sb-main.herokuapp.com/
+eireka itself | ... | https://hero-sb-eureka.herokuapp.com/
 
 ## Authors
 
