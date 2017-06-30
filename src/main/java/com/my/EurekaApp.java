@@ -20,7 +20,6 @@ import org.springframework.web.bind.annotation.RestController;
 @RestController
 @SpringBootApplication
 @EnableEurekaServer
-@EnableCircuitBreaker
 @PropertySource("classpath:eureka-server.properties")
 public class EurekaApp {
 
